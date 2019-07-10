@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CYExtension_Example' do
+  pod 'CYExtension', :path => '../'
+
+  target 'CYExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
