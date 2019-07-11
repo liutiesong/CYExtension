@@ -12,4 +12,8 @@ public class TestExtension: NSObject {
     {
         print("test")
     }
+    public func newTestPrint()
+    {
+        print("newTest")
+    }
 }
