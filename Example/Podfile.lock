@@ -1,0 +1,16 @@
+PODS:
+  - CYExtension (0.1.0)
+
+DEPENDENCIES:
+  - CYExtension (from `../`)
+
+EXTERNAL SOURCES:
+  CYExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYExtension: 9f86a8aa602955541db871b18f15b68516f89b4d
+
+PODFILE CHECKSUM: ecfbd51814354936b6b639205ca8a4dd692c02d8
+
+COCOAPODS: 1.5.2
