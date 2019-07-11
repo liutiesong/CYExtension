@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CYExtension'
-  s.version          = '0.1.0'
+  s.version          = '0.3.0'
   s.summary          = 'A Extension of CY'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = '<<-DESCTODO: Add long description of the pod here.DESC'
   s.swift_version = '4.0'
-  s.homepage         = 'https://github.com/liutiesong/'
+  s.homepage         = 'https://github.com/liutiesong/CYExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liutiesong@vip.sina.com' => 'cy@liutiesong.com' }
