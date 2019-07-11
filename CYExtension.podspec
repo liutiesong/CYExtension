@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CYExtension'
-  s.version          = '1.0.0'
+  s.version          = '1.1.1'
   s.summary          = 'A Extension of CY'
 
   s.description      = '<<-DESCTODO: Add long description of the pod here.DESC'
