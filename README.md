@@ -17,12 +17,12 @@ CYExtension is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'CYExtension'
+pod 'CYExtension', '~> 1.1.1'
 ```
 
 ## Author
 
-liutiesong@vip.sina.com, cy@liutiesong.com
+cy@liutiesong.com
 
 ## License
 
